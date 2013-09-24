@@ -1,0 +1,274 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">magic_first_wizard.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">magic_first_wizard</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-iQG0yAF6UJ,guid=4d9642427219987972a152d04bda589e</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString">GS_LIB=/home/sunshine/.fonts</value>
+    <value type="QString">GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/sunshine/.gtkrc-2.0::/home/sunshine/.kde4/share/config/gtkrc-2.0</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/sunshine/.gtkrc::/home/sunshine/.kde4/share/config/gtkrc</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/home/sunshine</value>
+    <value type="QString">HOSTNAME=MagicLinux</value>
+    <value type="QString">KDEDIRS=/opt/kde4</value>
+    <value type="QString">KDE_FULL_SESSION=true</value>
+    <value type="QString">KDE_MULTIHEAD=false</value>
+    <value type="QString">KDE_SESSION_UID=500</value>
+    <value type="QString">KDE_SESSION_VERSION=4</value>
+    <value type="QString">LANG=zh_CN.GB18030</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/kde4/lib</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=sunshine</value>
+    <value type="QString">MAIL=/var/spool/mail/sunshine</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/opt/kde4/bin:/usr/lib/qt4/bin:/usr/lib/qt4/bin/:/opt/kde4/bin/:/usr/kerberos/bin:/usr/local/bin:/usr/bin:/bin:/usr/games:/usr/local/sbin:/usr/sbin:/sbin:/home/sunshine/bin</value>
+    <value type="QString">PKG_CONFIG_PATH=:/usr/lib/pkgconfig:/usr/lib/pkgconfig</value>
+    <value type="QString">PWD=/home/sunshine</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/include</value>
+    <value type="QString">QTLIB=/lib</value>
+    <value type="QString">QT_PLUGIN_PATH=/home/sunshine/.kde4/lib/kde4/plugins/:/opt/kde4/lib/kde4/plugins/</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3583,unix/unix:/tmp/.ICE-unix/3583</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">USER=sunshine</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XCURSOR_PATH=/opt/kde4/share/icons::~/.icons:/usr/share/icons:/usr/share/pixmaps:/usr/X11R6/lib/X11/icons</value>
+    <value type="QString">XCURSOR_THEME=Oxygen_Black</value>
+    <value type="QString">XDG_DATA_DIRS=/opt/kde4/share:/usr/share:/usr/local/share</value>
+    <value type="QString">XDG_SESSION_COOKIE=5d15ec463fdf2961d70fae534baae273-1272600733.945166-183362797</value>
+    <value type="QString">XDM_MANAGED=method=classic</value>
+    <value type="QString">XMODIFIERS=@im=fcitx</value>
+    <value type="QString">XORG_CONFIG=--prefix=/usr --sysconfdir=/etc --localstatedir=/var --datadir=/usr/lib</value>
+    <value type="QString">XORG_PREFIX=/usr</value>
+    <value type="QString">_=/opt/kde4/bin/kdeinit4</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/sunshine/magic_first_wizard/magic_first_wizard-0.0.1/magic_first_wizard-0.0.2/magic_first_wizard.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/lib/qt4/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/sunshine/magic_first_wizard/magic_first_wizard-0.0.1/magic_first_wizard-0.0.2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-iQG0yAF6UJ,guid=4d9642427219987972a152d04bda589e</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString">GS_LIB=/home/sunshine/.fonts</value>
+    <value type="QString">GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/sunshine/.gtkrc-2.0::/home/sunshine/.kde4/share/config/gtkrc-2.0</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/sunshine/.gtkrc::/home/sunshine/.kde4/share/config/gtkrc</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/home/sunshine</value>
+    <value type="QString">HOSTNAME=MagicLinux</value>
+    <value type="QString">KDEDIRS=/opt/kde4</value>
+    <value type="QString">KDE_FULL_SESSION=true</value>
+    <value type="QString">KDE_MULTIHEAD=false</value>
+    <value type="QString">KDE_SESSION_UID=500</value>
+    <value type="QString">KDE_SESSION_VERSION=4</value>
+    <value type="QString">LANG=zh_CN.GB18030</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/kde4/lib</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=sunshine</value>
+    <value type="QString">MAIL=/var/spool/mail/sunshine</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/opt/kde4/bin:/usr/lib/qt4/bin:/usr/lib/qt4/bin/:/opt/kde4/bin/:/usr/kerberos/bin:/usr/local/bin:/usr/bin:/bin:/usr/games:/usr/local/sbin:/usr/sbin:/sbin:/home/sunshine/bin</value>
+    <value type="QString">PKG_CONFIG_PATH=:/usr/lib/pkgconfig:/usr/lib/pkgconfig</value>
+    <value type="QString">PWD=/home/sunshine</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/include</value>
+    <value type="QString">QTLIB=/lib</value>
+    <value type="QString">QT_PLUGIN_PATH=/home/sunshine/.kde4/lib/kde4/plugins/:/opt/kde4/lib/kde4/plugins/</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3583,unix/unix:/tmp/.ICE-unix/3583</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">USER=sunshine</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XCURSOR_PATH=/opt/kde4/share/icons::~/.icons:/usr/share/icons:/usr/share/pixmaps:/usr/X11R6/lib/X11/icons</value>
+    <value type="QString">XCURSOR_THEME=Oxygen_Black</value>
+    <value type="QString">XDG_DATA_DIRS=/opt/kde4/share:/usr/share:/usr/local/share</value>
+    <value type="QString">XDG_SESSION_COOKIE=5d15ec463fdf2961d70fae534baae273-1272600733.945166-183362797</value>
+    <value type="QString">XDM_MANAGED=method=classic</value>
+    <value type="QString">XMODIFIERS=@im=fcitx</value>
+    <value type="QString">XORG_CONFIG=--prefix=/usr --sysconfdir=/etc --localstatedir=/var --datadir=/usr/lib</value>
+    <value type="QString">XORG_PREFIX=/usr</value>
+    <value type="QString">_=/opt/kde4/bin/kdeinit4</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/sunshine/magic_first_wizard/magic_first_wizard-0.0.1/magic_first_wizard-0.0.2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>

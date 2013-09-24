@@ -1,0 +1,17 @@
+INPUT(
+./debug\wizard.o
+./debug\thankspage.o
+./debug\tcpipinfopage.o
+./debug\tcpipcfgpage.o
+./debug\startcfgpage.o
+./debug\rootless.o
+./debug\netcardpage.o
+./debug\main.o
+./debug\intropage.o
+./debug\dnscfgpage.o
+./debug\conclusionpage.o
+./debug\bootactivatepage.o
+./debug\moc_wizard.o
+./debug\moc_thankspage.o
+./debug\moc_conclusionpage.o
+);

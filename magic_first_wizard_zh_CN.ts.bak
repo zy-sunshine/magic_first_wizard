@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="zh_CN">
+<context>
+    <name>BootActivatePage</name>
+    <message>
+        <location filename="bootactivatepage.cpp" line="13"/>
+        <location filename="bootactivatepage.cpp" line="18"/>
+        <source>BootActivatePage</source>
+        <translation>启动激活</translation>
+    </message>
+    <message>
+        <location filename="bootactivatepage.cpp" line="22"/>
+        <source>Activate netcard at boot</source>
+        <translation>随操作系统一同启动</translation>
+    </message>
+</context>
+<context>
+    <name>ConclusionPage</name>
+    <message>
+        <location filename="conclusionpage.cpp" line="17"/>
+        <source>ConclusionPage</source>
+        <translation>核对信息</translation>
+    </message>
+    <message>
+        <location filename="conclusionpage.cpp" line="33"/>
+        <source>No. %1 card use dhcp mode
+Device: %2
+
+</source>
+        <translation>NO. %1 网卡使用DHCP模式\n设备:%2\n\n</translation>
+    </message>
+    <message>
+        <location filename="conclusionpage.cpp" line="46"/>
+        <source>No. %1 card use manual mode
+Device: %2
+
+IP      :%3
+Netmask :%4
+Gateway :%5
+</source>
+        <translation>NO. %1 网卡使用手动配置模式\n设备:%2\n\nIP      :%3\nNetmask :%4\nGateway :%5\n</translation>
+    </message>
+    <message>
+        <location filename="conclusionpage.cpp" line="56"/>
+        <source>Allow rootless: %1
+</source>
+        <translation>允许非root用户操作: %1\n</translation>
+    </message>
+    <message>
+        <location filename="conclusionpage.cpp" line="57"/>
+        <source>Boot activate : %1
+</source>
+        <translation>随操作系统启动: %1\n</translation>
+    </message>
+</context>
+<context>
+    <name>DNSCfgPage</name>
+    <message>
+        <location filename="dnscfgpage.cpp" line="15"/>
+        <location filename="dnscfgpage.cpp" line="20"/>
+        <source>DNSCfgPage</source>
+        <translation>DNS配置</translation>
+    </message>
+    <message>
+        <location filename="dnscfgpage.cpp" line="28"/>
+        <source>Use Primary DNS</source>
+        <translation>使用首选DNS</translation>
+    </message>
+    <message>
+        <location filename="dnscfgpage.cpp" line="32"/>
+        <source>Primary DNS IP Address:</source>
+        <translation>首选DNS地址:</translation>
+    </message>
+    <message>
+        <location filename="dnscfgpage.cpp" line="42"/>
+        <source>Use Secondary DNS</source>
+        <translation>使用备用DNS</translation>
+    </message>
+    <message>
+        <location filename="dnscfgpage.cpp" line="47"/>
+        <source>Secondary DNS IP Address:</source>
+        <translation>备用DNS地址:</translation>
+    </message>
+</context>
+<context>
+    <name>IntroPage</name>
+    <message>
+        <location filename="intropage.cpp" line="10"/>
+        <source>Introduction</source>
+        <translation>简介</translation>
+    </message>
+    <message>
+        <location filename="intropage.cpp" line="15"/>
+        <source>Welcome to Magic wideband configuration wizard!
+Press Next to start configuration.
+This software is licensed as GPLv2+
+(c) 2004-2007, Magic Group
+Author: KDE &lt;athena_star {at} 163 {dot} com&gt;</source>
+        <translation>欢迎使用MagicLinux宽带配置向导\n请点击下一步开始配置网卡\nThis software is licensed as GPLv2+\n(c) 2004-2007, Magic Group\nAuthor: KDE &lt;athena_star {at} 163 {dot} com&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>NetCardPage</name>
+    <message>
+        <location filename="netcardpage.cpp" line="14"/>
+        <source>NetCardPage</source>
+        <translation>网卡信息</translation>
+    </message>
+    <message>
+        <location filename="netcardpage.cpp" line="26"/>
+        <source>Detected %1 PCI netcards:
+%2
+
+Loaded %3 netcards:
+%4</source>
+        <translation>检测到 %1 个PCI网卡:\n%2\n\n已加载 %3 个网卡:\n%4</translation>
+    </message>
+</context>
+<context>
+    <name>RootlessPage</name>
+    <message>
+        <location filename="rootless.cpp" line="12"/>
+        <location filename="rootless.cpp" line="17"/>
+        <source>RootlessPage</source>
+        <translation>权限配置</translation>
+    </message>
+    <message>
+        <location filename="rootless.cpp" line="21"/>
+        <source>Allow non-root user operation</source>
+        <translation>允许非root用户操作网卡</translation>
+    </message>
+</context>
+<context>
+    <name>StartCfgPage</name>
+    <message>
+        <location filename="startcfgpage.cpp" line="19"/>
+        <source>StartCfgPage</source>
+        <translation>开始配置</translation>
+    </message>
+    <message>
+        <location filename="startcfgpage.cpp" line="40"/>
+        <source>Start to configure %1.</source>
+        <translation>开始配置网卡 %1 .</translation>
+    </message>
+</context>
+<context>
+    <name>TCPIPCfgPage</name>
+    <message>
+        <location filename="tcpipcfgpage.cpp" line="14"/>
+        <location filename="tcpipcfgpage.cpp" line="19"/>
+        <source>TCPIPCfgPage</source>
+        <translation>TCP/IP配置页面</translation>
+    </message>
+    <message>
+        <location filename="tcpipcfgpage.cpp" line="23"/>
+        <source>Use DHCP</source>
+        <translation>使用DHCP模式</translation>
+    </message>
+    <message>
+        <location filename="tcpipcfgpage.cpp" line="27"/>
+        <source>Manually</source>
+        <translation>手动配置</translation>
+    </message>
+    <message>
+        <location filename="tcpipcfgpage.cpp" line="31"/>
+        <source>IP Address:</source>
+        <translation>IP地址:</translation>
+    </message>
+    <message>
+        <location filename="tcpipcfgpage.cpp" line="42"/>
+        <source>Net Mask Address:</source>
+        <translation>掩码地址:</translation>
+    </message>
+    <message>
+        <location filename="tcpipcfgpage.cpp" line="50"/>
+        <source>Default Gateway:</source>
+        <translation>默认网关:</translation>
+    </message>
+</context>
+<context>
+    <name>TCPIPInfoPage</name>
+    <message>
+        <location filename="tcpipinfopage.cpp" line="10"/>
+        <source>TCPIPInfoPage</source>
+        <translation>TCPIP信息</translation>
+    </message>
+    <message>
+        <location filename="tcpipinfopage.cpp" line="15"/>
+        <source>TCPIPInfoPage balh balh.....</source>
+        <translation>TCPIP信息 ......</translation>
+    </message>
+</context>
+<context>
+    <name>ThanksPage</name>
+    <message>
+        <location filename="thankspage.cpp" line="10"/>
+        <source>Thanks</source>
+        <translation>感谢</translation>
+    </message>
+    <message>
+        <location filename="thankspage.cpp" line="15"/>
+        <source>The Network configuration complete.
+Please continue to experience MagicLinux!
+Thank you!
+
+Notice:
+Please wait for your network restart when press the finish button, making your configuration to take effect.</source>
+        <oldsource>The Network configuration complete.
+Please continue to experience MagicLinux!
+Thank you!</oldsource>
+        <translation>网卡配置完成\n请继续使用MagicLinux操作系统\nThank you!\n\n注意:\n当点击finish按钮后,请耐心等待网卡重启,以便使本次配置生效.</translation>
+    </message>
+</context>
+<context>
+    <name>Wizard</name>
+    <message>
+        <location filename="wizard.cpp" line="59"/>
+        <source>magic linux Wizard</source>
+        <translation>MagicLinux宽带配置向导</translation>
+    </message>
+</context>
+</TS>

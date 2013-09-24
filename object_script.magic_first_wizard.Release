@@ -1,0 +1,17 @@
+INPUT(
+./release\wizard.o
+./release\thankspage.o
+./release\tcpipinfopage.o
+./release\tcpipcfgpage.o
+./release\startcfgpage.o
+./release\rootless.o
+./release\netcardpage.o
+./release\main.o
+./release\intropage.o
+./release\dnscfgpage.o
+./release\conclusionpage.o
+./release\bootactivatepage.o
+./release\moc_wizard.o
+./release\moc_thankspage.o
+./release\moc_conclusionpage.o
+);

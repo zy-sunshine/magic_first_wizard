@@ -1,0 +1,298 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: main.cpp:17
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-30 17:37+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bootactivatepage.cpp:16 bootactivatepage.cpp:21
+msgid "BootActivatePage"
+msgstr ""
+
+#: bootactivatepage.cpp:25
+msgid "Activate netcard at boot"
+msgstr ""
+
+#: conclusionpage.cpp:20 moc_conclusionpage.cpp:37
+msgid "ConclusionPage"
+msgstr ""
+
+#: conclusionpage.cpp:37
+msgid ""
+"No. %1 card use dhcp mode\n"
+"Device: %2\n"
+"\n"
+msgstr ""
+
+#: conclusionpage.cpp:50
+msgid ""
+"No. %1 card use manual mode\n"
+"Device: %2\n"
+"\n"
+"IP      :%3\n"
+"Netmask :%4\n"
+"Gateway :%5\n"
+msgstr ""
+
+#: conclusionpage.cpp:59
+msgid "Allow rootless: %1\n"
+msgstr ""
+
+#: conclusionpage.cpp:60
+msgid "Boot activate : %1\n"
+msgstr ""
+
+#: defaultgatepage.cpp:18 defaultgatepage.cpp:23
+msgid "DefaultGatePage"
+msgstr ""
+
+#: defaultgatepage.cpp:27
+msgid "Use Default Gate"
+msgstr ""
+
+#: defaultgatepage.cpp:31
+msgid "Default Gate IP Address:"
+msgstr ""
+
+#: dnscfgpage.cpp:18 dnscfgpage.cpp:23
+msgid "DNSCfgPage"
+msgstr ""
+
+#: dnscfgpage.cpp:31
+msgid "Use Primary DNS"
+msgstr ""
+
+#: dnscfgpage.cpp:35
+msgid "Primary DNS IP Address:"
+msgstr ""
+
+#: dnscfgpage.cpp:45
+msgid "Use Secondary DNS"
+msgstr ""
+
+#: dnscfgpage.cpp:50
+msgid "Secondary DNS IP Address:"
+msgstr ""
+
+#: intropage.cpp:13
+msgid "Introduction"
+msgstr ""
+
+#: intropage.cpp:18
+msgid ""
+"Welcome to Magic wideband configuration wizard!\n"
+"Press Next to start configuration.\n"
+"This software is licensed as GPLv2+\n"
+"(c)) 2004-2007, Magic Group\n"
+"Author: KDE <athena_star {at} 163 {dot} com>"
+msgstr ""
+
+#: netcardpage.cpp:17
+msgid "NetCardPage"
+msgstr ""
+
+#: netcardpage.cpp:29
+msgid ""
+"Detected %1 PCI netcards:\n"
+"%2\n"
+"\n"
+"Loaded %3 netcards:\n"
+"%4"
+msgstr ""
+
+#: rootless.cpp:15 rootless.cpp:20
+msgid "RootlessPage"
+msgstr ""
+
+#: rootless.cpp:24
+msgid "Allow non-root user operation"
+msgstr ""
+
+#: startcfgpage.cpp:22
+msgid "StartCfgPage"
+msgstr ""
+
+#: startcfgpage.cpp:43
+msgid "Start to configure %1."
+msgstr ""
+
+#: tcpipcfgpage.cpp:17 tcpipcfgpage.cpp:22
+msgid "TCPIPCfgPage"
+msgstr ""
+
+#: tcpipcfgpage.cpp:26
+msgid "Use DHCP"
+msgstr ""
+
+#: tcpipcfgpage.cpp:30
+msgid "Manually"
+msgstr ""
+
+#: tcpipcfgpage.cpp:34
+msgid "IP Address:"
+msgstr ""
+
+#: tcpipcfgpage.cpp:45
+msgid "Net Mask Address:"
+msgstr ""
+
+#: tcpipcfgpage.cpp:53
+msgid "Default Gateway:"
+msgstr ""
+
+#: tcpipinfopage.cpp:13
+msgid "TCPIPInfoPage"
+msgstr ""
+
+#: tcpipinfopage.cpp:18
+msgid "TCPIPInfoPage balh balh....."
+msgstr ""
+
+#: thankspage.cpp:9
+msgid "Thanks"
+msgstr ""
+
+#: thankspage.cpp:14
+msgid ""
+"The Network configuration complete.\n"
+"Please continue to experience MagicLinux!\n"
+"Thank you!\n"
+"\n"
+"Notice:\n"
+"Please wait for your network restart when press the finish button, making "
+"your configuration to take effect."
+msgstr ""
+
+#: thankspage.cpp:48
+msgid "failed"
+msgstr ""
+
+#: wizard.cpp:39
+msgid "magic linux Wizard"
+msgstr ""
+
+#: wizard.cpp:52
+msgid "Success!"
+msgstr ""
+
+#: wizard.cpp:54
+msgid "Failed!"
+msgstr ""
+
+#: wizard.cpp:56
+msgid "Result"
+msgstr ""
+
+#: wizard.cpp:56
+msgid "Restart NetCard %1"
+msgstr ""
+
+#: bootactivatepage.cpp:31 conclusionpage.cpp:60
+msgid "bootactivate"
+msgstr ""
+
+#: conclusionpage.cpp:33 tcpipcfgpage.cpp:69
+msgid "dhcpbutton"
+msgstr ""
+
+#: conclusionpage.cpp:42 tcpipcfgpage.cpp:70
+msgid "manualbutton"
+msgstr ""
+
+#: conclusionpage.cpp:46 tcpipcfgpage.cpp:71
+msgid "ip"
+msgstr ""
+
+#: conclusionpage.cpp:47 tcpipcfgpage.cpp:72
+msgid "netmask"
+msgstr ""
+
+#: conclusionpage.cpp:48 tcpipcfgpage.cpp:73
+msgid "gateway"
+msgstr ""
+
+#: conclusionpage.cpp:59 rootless.cpp:30
+msgid "allowrootless"
+msgstr ""
+
+#: defaultgatepage.cpp:37 dnscfgpage.cpp:28 tcpipcfgpage.cpp:39
+msgid ""
+"^(((25[0-5])|(2[0-4][0-9])|([01]?[0-9]?[0-9]))\\.){3}((25[0-5])|(2[0-4][0-"
+"9])|([01]?[0-9]?[0-9]))$"
+msgstr ""
+
+#: defaultgatepage.cpp:45
+msgid "defaultgatecheck"
+msgstr ""
+
+#: defaultgatepage.cpp:46
+msgid "defaultgateip"
+msgstr ""
+
+#: main.cpp:13
+msgid "GBK"
+msgstr ""
+
+#: main.cpp:18 main.cpp:19
+msgid "magic_first_wizard"
+msgstr ""
+
+#: main.cpp:19
+msgid "/usr/share/locale"
+msgstr ""
+
+#: moc_thankspage.cpp:45
+msgid "ThanksPageslot_runProcess()slot_readyReadStandardError()"
+msgstr ""
+
+#: moc_wizard.cpp:43
+msgid "Wizardslot_finishProcess(bool)"
+msgstr ""
+
+#: netcardpage.cpp:24
+msgid "lspci"
+msgstr ""
+
+#: netcardpage.cpp:26
+msgid "Ethernet controller:"
+msgstr ""
+
+#: netcardpage.cpp:27 wizard.cpp:9
+msgid "/sys/class/net"
+msgstr ""
+
+#: netcardpage.cpp:27 wizard.cpp:9
+msgid "eth*"
+msgstr ""
+
+#: netcardpage.cpp:34 netcardpage.cpp:36
+msgid "\n"
+msgstr ""
+
+#: startcfgpage.cpp:35
+msgid "Nothing"
+msgstr ""
+
+#: thankspage.cpp:37
+msgid "/etc/init.d/network"
+msgstr ""
+
+#: thankspage.cpp:37
+msgid "restart"
+msgstr ""
+
+#: thankspage.cpp:51
+msgid "eth\\d+"
+msgstr ""

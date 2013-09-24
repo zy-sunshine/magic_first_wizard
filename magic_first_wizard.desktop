@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Magic Network Guide
+Exec=magicfirstrun
+Icon=magic_first_wizard.png
+Terminal=false
+Type=Application
+Categories=Application;Network;
+Comment[zh_CN]=宽带网络设置向导
+GenericName[zh_CN]=宽带网络设置向导

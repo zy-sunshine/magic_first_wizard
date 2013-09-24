@@ -1,0 +1,199 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-30 17:34+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=GBK\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bootactivatepage.cpp:16 bootactivatepage.cpp:21
+msgid "BootActivatePage"
+msgstr "启动激活"
+
+#: bootactivatepage.cpp:25
+msgid "Activate netcard at boot"
+msgstr "随操作系统一同启动"
+
+#: conclusionpage.cpp:20
+msgid "ConclusionPage"
+msgstr "核对信息"
+
+#: conclusionpage.cpp:37
+msgid ""
+"No. %1 card use dhcp mode\n"
+"Device: %2\n"
+"\n"
+msgstr "NO. %1 网卡使用DHCP模式\n设备:%2\n\n"
+
+#: conclusionpage.cpp:50
+msgid ""
+"No. %1 card use manual mode\n"
+"Device: %2\n"
+"\n"
+"IP      :%3\n"
+"Netmask :%4\n"
+"Gateway :%5\n"
+msgstr "NO. %1 网卡使用手动配置模式\n设备:%2\n\nIP      :%3\nNetmask :%4\nGateway :%5\n"
+
+#: conclusionpage.cpp:59
+msgid "Allow rootless: %1\n"
+msgstr "允许非root用户操作: %1\n"
+
+#: conclusionpage.cpp:60
+msgid "Boot activate : %1\n"
+msgstr "随操作系统启动: %1\n"
+
+#: defaultgatepage.cpp:18 defaultgatepage.cpp:23
+msgid "DefaultGatePage"
+msgstr "默认网关配置"
+
+#: defaultgatepage.cpp:27
+msgid "Use Default Gate"
+msgstr "使用默认网关"
+
+#: defaultgatepage.cpp:31
+msgid "Default Gate IP Address:"
+msgstr "默认网关IP地址"
+
+#: dnscfgpage.cpp:18 dnscfgpage.cpp:23
+msgid "DNSCfgPage"
+msgstr "DNS配置"
+
+#: dnscfgpage.cpp:31
+msgid "Use Primary DNS"
+msgstr "使用首选DNS"
+
+#: dnscfgpage.cpp:35
+msgid "Primary DNS IP Address:"
+msgstr "首选DNS地址"
+
+#: dnscfgpage.cpp:45
+msgid "Use Secondary DNS"
+msgstr "使用备用DNS"
+
+#: dnscfgpage.cpp:50
+msgid "Secondary DNS IP Address:"
+msgstr "备用DNS地址"
+
+#: intropage.cpp:13
+msgid "Introduction"
+msgstr "简介"
+
+#: intropage.cpp:18
+msgid ""
+"Welcome to Magic wideband configuration wizard!\n"
+"Press Next to start configuration.\n"
+"This software is licensed as GPLv2+\n"
+"(c)) 2004-2007, Magic Group\n"
+"Author: KDE <athena_star {at} 163 {dot} com>"
+msgstr "欢迎使用MagicLinux宽带配置向导\n请点击下一步开始配置网卡\n本软件以 GPLv2+ 许可发行\n(c) 2004-2010, MagicLinux 团队\n作者: KDE <athena_star {at} 163 {dot} com>"
+
+#: netcardpage.cpp:17
+msgid "NetCardPage"
+msgstr "网卡信息"
+
+#: netcardpage.cpp:29
+msgid ""
+"Detected %1 PCI netcards:\n"
+"%2\n"
+"\n"
+"Loaded %3 netcards:\n"
+"%4"
+msgstr "检测到 %1 个PCI网卡:\n%2\n\n已加载 %3 个网卡:\n%4"
+
+#: rootless.cpp:15 rootless.cpp:20
+msgid "RootlessPage"
+msgstr "权限配置"
+
+#: rootless.cpp:24
+msgid "Allow non-root user operation"
+msgstr "允许非root用户操作网卡"
+
+#: startcfgpage.cpp:22
+msgid "StartCfgPage"
+msgstr "开始配置"
+
+#: startcfgpage.cpp:43
+msgid "Start to configure %1."
+msgstr "开始配置网卡 %1 ."
+
+#: tcpipcfgpage.cpp:17 tcpipcfgpage.cpp:22
+msgid "TCPIPCfgPage"
+msgstr "TCP/IP配置页面"
+
+#: tcpipcfgpage.cpp:26
+msgid "Use DHCP"
+msgstr "使用DHCP模式"
+
+#: tcpipcfgpage.cpp:30
+msgid "Manually"
+msgstr "手动配置"
+
+#: tcpipcfgpage.cpp:34
+msgid "IP Address:"
+msgstr "IP地址:"
+
+#: tcpipcfgpage.cpp:45
+msgid "Net Mask Address:"
+msgstr "掩码地址:"
+
+#: tcpipcfgpage.cpp:53
+msgid "Default Gateway:"
+msgstr "默认网关:"
+
+#: tcpipinfopage.cpp:13
+msgid "TCPIPInfoPage"
+msgstr "TCPIP信息"
+
+#: tcpipinfopage.cpp:18
+msgid "TCPIPInfoPage balh balh....."
+msgstr "TCPIP信息 ......"
+
+#: thankspage.cpp:9
+msgid "Thanks"
+msgstr "感谢"
+
+#: thankspage.cpp:14
+msgid ""
+"The Network configuration complete.\n"
+"Please continue to experience MagicLinux!\n"
+"Thank you!\n"
+"\n"
+"Notice:\n"
+"Please wait for your network restart when press the finish button, making "
+"your configuration to take effect."
+msgstr "网卡配置完成\n请继续使用MagicLinux操作系统\nThank you!\n\n注意:\n当点击finish按钮后,请耐心等待网卡重启,以便使本次配置生效."
+
+#: thankspage.cpp:48
+msgid "failed"
+msgstr "失败"
+
+#: wizard.cpp:39
+msgid "magic linux Wizard"
+msgstr "MagicLinux 配置向导"
+
+#: wizard.cpp:52
+msgid "Success!"
+msgstr "成功"
+
+#: wizard.cpp:54
+msgid "Failed!"
+msgstr "失败"
+
+#: wizard.cpp:56
+msgid "Result"
+msgstr "返回结果"
+
+#: wizard.cpp:56
+msgid "Restart NetCard %1"
+msgstr "重新启动网卡 %1"

@@ -1,0 +1,5 @@
+#!/bin/bash
+[ -x //usr/bin/id ] || return
+[ `//usr/bin/id -u` -eq 0 ] || return
+magic_first_wizard
+rm /opt/kde4/share/autostart/magic_first_wizard.desktop
